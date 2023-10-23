@@ -1,7 +1,7 @@
-# APP QUAN LY NHAN VIEN DON GIAN
-### Mo ta
-*  Co tinh nang doc/them/sua/xoa (CRUD)
-*  Giao dien so sai, neu co thoi gian se update sau!
-#### App duoc lam ra trong luc hoc Nhap mon lap trinh Android co ban
+## APP QUẢN LÝ NHÂN VIÊN
+### Mô tả
+*  Có tính năng thêm/xóa/sửa, vẫn app còn sơ sài và chưa chuyên sâu vào tính quản lý
+*  Giao diện mặc định nên trông không được đẹp
+#### Nhập môn lập trình Android cơ bản
 
 ###            --I HOPE YOU HAVE A NICE DAY!--

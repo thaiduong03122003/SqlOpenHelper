@@ -4,4 +4,4 @@
 *  Giao diện mặc định nên trông không được đẹp
 #### Nhập môn lập trình Android cơ bản
 
-###            --I HOPE YOU HAVE A NICE DAY!--
+
